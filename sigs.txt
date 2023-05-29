@@ -1,3 +1,4 @@
+
 UWorld: 48 89 05 ?? ?? ?? ?? 0F 28 D7
 
 BoneMatrix: E8 ? ? ? ? 0F 10 40 68
@@ -14,6 +15,7 @@ GetWeaponStats: 48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 41 56 48 81 EC ? ? ? ?
 
 UObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1
 
+FreeFN: 48 89 D1 48 FF 25 ? ? ? ? C3
 
 
 VTables:
